@@ -18,3 +18,5 @@ This is the repository containing the data for paper "DeepLV: Suggesting Log Lev
     - `line` shows the line number that this logging statement locates at
 
 - `manual_study.xlsx` contains the detailed results of our manual study in Section-II
+
+- `log_level_code.rar` contains the code related to this study
